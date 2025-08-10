@@ -12,7 +12,7 @@ I'm a fullstack web developer passionate about building web and mobile apps.
 - [Responsive Landing Page](https://github.com/shrutikapatil9/responsive-landing-page)
 
 <a href="https://github.com/shrutikapatil9/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shrutikapatil9&show_icons=true&theme=ambient-gradient" />
+  <img height=200 align="center" src="![Shrutika's's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrutikapatil9&theme=jolly&show_icons=true)" />
 </a>
 
 <a href="https://github.com/shrutikapatil9/convoychat">
