@@ -19,7 +19,7 @@ I'm a fullstack web developer passionate about building web and mobile apps.
 
 
 <a href="https://github.com/shrutikapatil9/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutikapatil9&layout=donut&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutikapatil9&theme=gradient&layout=donut&langs_count=8&card_width=320" />
 </a>
 
 
