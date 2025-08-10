@@ -19,8 +19,7 @@ I'm a fullstack web developer passionate about building web and mobile apps.
 </a>
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrutikapatil9&repo=github-readme-stats)](https://github.com/shrutikapatil9/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shrutikapatil9&langs_count=5)](https://github.com/shrutikapatil9/github-readme-stats)
+
 
 
 
