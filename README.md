@@ -14,7 +14,7 @@ I'm a fullstack web developer passionate about building web and mobile apps.
   
 
 <a href="https://github.com/shrutikapatil9/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shrutikapatil9" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shrutikapatil9&theme=synthwave" />
 </a>
 
 
