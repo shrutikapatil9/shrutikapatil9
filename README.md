@@ -10,6 +10,7 @@ I'm a fullstack web developer passionate about building web and mobile apps.
 ## Projects
 - [Shopping Site](https://github.com/shrutikapatil9/shopping-site)
 - [Responsive Landing Page](https://github.com/shrutikapatil9/responsive-landing-page)
+- [Movie-Search-App](https://shrutikapatil9.github.io/moviesearch-app/)
 
   
 
