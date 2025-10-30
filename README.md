@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Shrutika Patil
 
-I'm a fullstack web developer passionate about building web and mobile apps.
+I'm an apiring fullstack web and software developer passionate about building web and mobile apps.
 
 ## Skills
 - JavaScript, React, Node.js
