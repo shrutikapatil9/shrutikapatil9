@@ -1,5 +1,7 @@
 # Hi, I'm Shrutika 👋
 
+![Banner](untitled design.png)
+
 ## About Me
 I am a Data Science enthusiast focused on building real-world machine learning projects.  
 I enjoy turning data into insights and building predictive models that solve business problems.
