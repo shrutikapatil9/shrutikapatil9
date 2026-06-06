@@ -1,6 +1,6 @@
 # Hi, I'm Shrutika 👋
 
-![Banner](Untitled design.png)
+![Banner]([Untitled design.png](https://github.com/shrutikapatil9/shrutikapatil9/blob/main/Untitled%20design.png))
 
 ## About Me
 I am a Data Science enthusiast focused on building real-world machine learning projects.  
