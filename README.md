@@ -1,20 +1,47 @@
-# Hi there 👋 I'm Shrutika Patil
+# Hi, I'm Shrutika 👋
 
-I'm an apiring fullstack web and software developer passionate about building web and mobile apps.
+## About Me
+I am a Data Science enthusiast focused on building real-world machine learning projects.  
+I enjoy turning data into insights and building predictive models that solve business problems.
 
-## Skills
-- JavaScript, React, Node.js
-- Java, C/C++
-- Docker, AWS
+---
 
-## Projects
-- [Shopping Site](https://github.com/shrutikapatil9/shopping-site)
-- [Responsive Landing Page](https://github.com/shrutikapatil9/responsive-landing-page)
-- [Movie-Search-App](https://shrutikapatil9.github.io/moviesearch-app/)
+## 🧠 Skills
+- Python (Pandas, NumPy, Scikit-learn)
+- Machine Learning
+- Data Visualization (Matplotlib, Seaborn)
+- SQL (Basic to Intermediate)
+- Git & GitHub
 
-  
+---
 
-<a href="https://github.com/shrutikapatil9/github-readme-stats">
+## 📊 Featured Projects
+
+### 🚀 Customer Churn Prediction (End-to-End ML Project)
+Predicting telecom customer churn using classification models.
+
+Tech Stack: Python, Pandas, Scikit-learn, XGBoost
+
+👉 Highlights:
+- EDA + Feature Engineering
+- Class Imbalance handling (SMOTE)
+- Model comparison (Logistic Regression, Random Forest, XGBoost)
+- Feature importance & business insights
+
+🔗 GitHub: https://github.com/YOUR_USERNAME/customer-churn-prediction-telco
+
+---
+
+## 📈 Currently Working On
+- More ML portfolio projects
+- Deploying models using Streamlit
+- Improving SQL skills for analytics roles
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+- Email: your.email@example.com
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shrutikapatil9&theme=synthwave" />
 </a>
 
