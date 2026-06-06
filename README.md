@@ -1,6 +1,6 @@
 # Hi, I'm Shrutika 👋
 
-![Banner](untitled design.png)
+![Banner](Untitled design.png)
 
 ## About Me
 I am a Data Science enthusiast focused on building real-world machine learning projects.  
