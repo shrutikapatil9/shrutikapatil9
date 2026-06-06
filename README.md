@@ -28,7 +28,7 @@ Tech Stack: Python, Pandas, Scikit-learn, XGBoost
 - Model comparison (Logistic Regression, Random Forest, XGBoost)
 - Feature importance & business insights
 
-🔗 GitHub: https://github.com/YOUR_USERNAME/customer-churn-prediction-telco
+🔗 GitHub: https://github.com/shrutikapatil9/customer-churn-prediction-telco
 
 ---
 
@@ -40,8 +40,8 @@ Tech Stack: Python, Pandas, Scikit-learn, XGBoost
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- Email: your.email@example.com
+- LinkedIn: https://linkedin.com/in/shrutika-patil09
+- Email: shrutika09.patil@gmail.com
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=shrutikapatil9&theme=synthwave" />
 </a>
 
